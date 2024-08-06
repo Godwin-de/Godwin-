@@ -1,13 +1,13 @@
+![Picture2](https://github.com/user-attachments/assets/f244159a-69d7-409b-9b1d-1efa69e80f0d)
 <h1 align="center">Hi 👋, I'm Godwin Aleroso</h1>
-About me 
-Name:Godwin Aleroso
-Location:Santa rosa, Laguna
-Contact: Bumblewin00@gmail.com
+# About Me
 
-
-
-
-
+## Personal Information
+- **Name:** Godwin Aleroso
+- **Location:** Santa rosa, Laguna
+- **Contact:** 
+  - **Email:** Bumblewin00@gmail.com
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
