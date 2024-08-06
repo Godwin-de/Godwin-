@@ -14,7 +14,7 @@
 - Playing Games
 
 ## Motto
-**KEEP CALM AND CARRY ON**
+**Progress over perfection**
  
 
 <h3 align="left">Connect with me:</h3>
