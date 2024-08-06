@@ -14,7 +14,7 @@
 - Playing Games
 
 ## Motto
-**LESS IS MORE**
+**KEEP CALM AND CARRY ON**
  
 
 <h3 align="left">Connect with me:</h3>
