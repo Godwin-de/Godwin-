@@ -1,6 +1,6 @@
 <![technology-monitor-alpha-coders-binary-wallpaper-preview](https://github.com/user-attachments/assets/0641bb2d-37d3-485f-bacb-62a5e0218507)
 
-# Hi 👋, I'm Godwin Aleroso</h1>
+<h1 align="center">Hi 👋, I'm Godwin Aleroso</h1>
 
 # About me
 
