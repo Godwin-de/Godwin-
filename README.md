@@ -1,9 +1,8 @@
-![Picture2](https://github.com/user-attachments/assets/f244159a-69d7-409b-9b1d-1efa69e80f0d)
+![Picture2]()
 <h1 align="center">Hi 👋, I'm Godwin Aleroso</h1>
 # About Me
 
 ## Personal Information
-- **Name:** Godwin Aleroso
 - **Location:** Santa rosa, Laguna
 - **Contact:** 
   - **Email:** Bumblewin00@gmail.com
