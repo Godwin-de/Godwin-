@@ -1,4 +1,4 @@
-![1253955-computer-programming-wallpaper-1920x1080-for-xiaomi](https://github.com/user-attachments/assets/b7aa7c9d-8abc-4f2a-a42a-5c626813b2fb)
+![pngtree-coding-nerd-a-computer-sporting-glasses-and-3d-programming-code-picture-image_5819254](https://github.com/user-attachments/assets/4872c25c-03f2-43d0-8559-aa4396106532)
 
 <h1 align="center">Hi 👋, I'm Godwin Aleroso</h1>
 
