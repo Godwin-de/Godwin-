@@ -1,4 +1,4 @@
-file:///C:/Users/bumbl/Pictures/Saved%20Pictures/C2D03371-7F98-4042-A1FB-AA46D7A4B29E
+
 <h1 align="center">Hi 👋, I'm Godwin Aleroso</h1>
 # About Me
 
