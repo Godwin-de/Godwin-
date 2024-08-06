@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Godwin Aleroso</h1>
 About me 
-
+Name:Godwin Aleroso
+Location:Santa rosa, Laguna
+Contact: Bumblewin00@gmail.com
 
 
 
