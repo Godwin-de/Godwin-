@@ -1,5 +1,6 @@
 ![1253955-computer-programming-wallpaper-1920x1080-for-xiaomi](https://github.com/user-attachments/assets/b7aa7c9d-8abc-4f2a-a42a-5c626813b2fb)
-# Hi 👋, I'm Godwin Aleroso</h1>
+
+<h1 align="center">Hi 👋, I'm Godwin Aleroso</h1>
 
 # About me
 
