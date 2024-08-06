@@ -1,5 +1,4 @@
-   ![technology-monitor-alpha-coders-binary-wallpaper-preview](https://github.com/user-attachments/assets/0641bb2d-37d3-485f-bacb-62a5e0218507)
-
+![1253955-computer-programming-wallpaper-1920x1080-for-xiaomi](https://github.com/user-attachments/assets/b7aa7c9d-8abc-4f2a-a42a-5c626813b2fb)
 # Hi 👋, I'm Godwin Aleroso</h1>
 
 # About me
