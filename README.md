@@ -7,6 +7,13 @@
 - **Contact:** 
   - **Email:** Bumblewin00@gmail.com
  
+## Hobbies and Interests
+- Watching Anime & Movies
+- Playing Games
+
+## Motto
+**LESS IS MORE**
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
